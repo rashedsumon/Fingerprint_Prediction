@@ -5,7 +5,7 @@ import os
 
 # Internal project imports
 from data_loader import load_dataset
-from model.py import PalmVeinNet, get_transforms
+from model import PalmVeinNet, get_transforms
 
 st.set_page_config(page_title="SASH-VPV Palm Vein Authenticator", layout="centered")
 
