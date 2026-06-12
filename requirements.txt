@@ -1,0 +1,6 @@
+streamlit
+kagglehub
+torch
+torchvision
+pillow
+numpy
