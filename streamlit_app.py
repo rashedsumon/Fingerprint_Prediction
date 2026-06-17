@@ -9,7 +9,7 @@ from model import PalmVeinNet, get_transforms
 
 st.set_page_config(page_title="SASH-VPV Palm Vein Authenticator", layout="centered")
 
-st.title("🛡️ Subcutaneous Vascular Palm Vein Auth")
+st.title("🛡️ Fingerprint Prediction")
 st.write("An AI Biometric prototype parsing subcutaneous vascular system layouts.")
 
 # 1. Background Data Fetching (Hidden from UI)
