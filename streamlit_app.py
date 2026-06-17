@@ -7,7 +7,7 @@ import os
 from data_loader import load_dataset
 from model import PalmVeinNet, get_transforms
 
-st.set_page_config(page_title="SASH-VPV Palm Vein Authenticator", layout="centered")
+st.set_page_config(page_title="Fingerprint Prediction", layout="centered")
 
 st.title("🛡️ Fingerprint Prediction")
 st.write("An AI Biometric prototype parsing subcutaneous vascular system layouts.")
